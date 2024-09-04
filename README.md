@@ -29,12 +29,11 @@ Step 1: Configure Roles
 - Click the 'Permissions' tab and Check all boxes under Tickets\Tasks\Knowledgebase
 - Click Add Role
 
-  
-![image](https://github.com/user-attachments/assets/2fb92f73-b56a-45db-9e6a-e131cf3ee585)
+  ![image](https://github.com/user-attachments/assets/1b55c49e-40d3-4b37-805f-417870703728)
 
-![image](https://github.com/user-attachments/assets/7491dae3-b6bf-49b0-a21b-3b6b8d492b89)
+![image](https://github.com/user-attachments/assets/36e08e6e-f77e-4940-a474-bbbbd5b2208e)
 
-![image](https://github.com/user-attachments/assets/2ce04afe-8bf3-4c7b-a3ee-158e992ab314)
+![image](https://github.com/user-attachments/assets/bc94dc79-92e3-4fa4-af02-48ee4a4adb99)
 
 
 
@@ -47,9 +46,10 @@ Step 2: Configure Departments
 
 
 
-![image](https://github.com/user-attachments/assets/49e9bab0-2b14-45a9-b0cf-1ff8b488d643)
+![image](https://github.com/user-attachments/assets/f2844acc-00a0-4591-882d-59aafe5e6199)
 
-![image](https://github.com/user-attachments/assets/ac231d2f-5b02-4275-9c7f-0324a5e2603d)
+
+![image](https://github.com/user-attachments/assets/fa9602ca-e0ed-4064-83ea-7ddeb7a27fa4)
 
 
 
@@ -62,11 +62,13 @@ Step 3: Configure Teams
 - Click 'Create Team' at the bottom of the webpage
 
 
-![image](https://github.com/user-attachments/assets/d28f74ad-58db-413e-8402-e93a2fcf6f49)
+![image](https://github.com/user-attachments/assets/7a07fc37-c983-4060-a490-29879c709090)
 
-![image](https://github.com/user-attachments/assets/df3b1a82-c5a3-4e5e-b09a-bf4855d7e560)
 
-![image](https://github.com/user-attachments/assets/7b2ac68d-637b-4250-85d3-826ae95e4d33)
+![image](https://github.com/user-attachments/assets/62e143b0-5a6c-48ef-ba4d-592906b2d285)
+
+![image](https://github.com/user-attachments/assets/f2155eb4-ab20-4999-a9c9-e5523dc4ac7b)
+
 
 
 
@@ -75,7 +77,7 @@ Step 4: Configure to allow anyone to create tickets
 -  Ensure you're under Admin Panel (top right should say Agent Panel, which means you're in the 'Admin Panel') -> Settings -> Users -> Settings
 -  Make sure the 'Require registration and login to create tickets' box is unchecked
 
-![image](https://github.com/user-attachments/assets/742c1679-29e7-4447-9631-d7a18db02ca0)
+![image](https://github.com/user-attachments/assets/4daa5f06-c84d-4a8e-8f82-d423a9a787cf)
 
 
 
@@ -93,15 +95,20 @@ Step 5: Configure Agents (Help Desk Professionals)
 - Assign the second agent to the 'Support' department and 'View only' role under the 'Access' tab
 
 
-![image](https://github.com/user-attachments/assets/bfbb3a92-817a-446b-8937-d7d4d27e99d6)
+![image](https://github.com/user-attachments/assets/080c8c62-21c9-4a4f-a984-dc1ea0df3ea0)
 
-![image](https://github.com/user-attachments/assets/210b9078-e85c-4745-87dd-f2c87eea5606)
 
-![image](https://github.com/user-attachments/assets/d5246039-2453-4d77-a982-e2d4542e6551)
+![image](https://github.com/user-attachments/assets/c772a422-d116-407a-bef1-65758f1f8dd6)
 
-![image](https://github.com/user-attachments/assets/b1e90232-6b48-4d12-b86e-5fe3314c5f9a)
 
-![image](https://github.com/user-attachments/assets/4d279b7f-f5d5-4110-965a-3c06e5064a28)
+![image](https://github.com/user-attachments/assets/dbc3838d-3556-401e-b06c-d8a3f9208edc)
+
+![image](https://github.com/user-attachments/assets/41eb9895-e627-44fd-ac29-4a96abb5c5d0)
+
+![image](https://github.com/user-attachments/assets/4237f6d3-4dde-4f70-997d-a5fd98cd1f82)
+
+![image](https://github.com/user-attachments/assets/a20b5d4e-7027-4dcb-bab2-c6e1be5e1a57)
+
 
 
 
@@ -112,11 +119,13 @@ Step 6: Configure Users (Customers)
 - Go back to the 'User Directory' and add a second user by repeating the exact same steps
 
 
-![image](https://github.com/user-attachments/assets/886a04bf-09b0-4511-83f7-b38928a98bc9)
+![image](https://github.com/user-attachments/assets/2257f99f-7199-44cc-8c94-607dba442126)
 
-![image](https://github.com/user-attachments/assets/077eafe1-b0be-468f-9b3c-ca56e1e141c1)
 
-![image](https://github.com/user-attachments/assets/ecdc862c-8663-4563-bd8a-6b81b52f755c)
+![image](https://github.com/user-attachments/assets/d7d4583e-4b79-4060-8a0e-c3f20eec01bb)
+
+
+![image](https://github.com/user-attachments/assets/f32a84f0-fea4-4d21-a1e6-ce170492de35)
 
 
 
@@ -129,11 +138,13 @@ Step 7: Configure SLA
 - Add SEV-C (Grace Period: 8 hours) (Schedule: Business Hours M-F)
 - Click 'Add Plam' at the bottom of the webpage
 
-![image](https://github.com/user-attachments/assets/1483c1b6-757c-4f88-bc81-df8bb8498dc9)
+![image](https://github.com/user-attachments/assets/d6d8bbdc-ac7f-4ce6-8251-1b490c0b574f)
 
-![image](https://github.com/user-attachments/assets/befdf785-ef24-4d3b-813c-ef37d594b809)
+![image](https://github.com/user-attachments/assets/86cbe6a6-38f7-42a2-adb0-898f2f9ed3d2)
 
-![image](https://github.com/user-attachments/assets/2de95311-a155-4016-835e-00cc14ef1a5a)
+
+![image](https://github.com/user-attachments/assets/08b2c7f6-d166-4bd4-aaf6-1e26651e02ba)
+
 
 
 
@@ -146,12 +157,17 @@ Step 8: Configure Help Topics
     - Personal Computer Issues
     - Password Reset
 
-![image](https://github.com/user-attachments/assets/a3bf6eb4-e9e9-41d3-8913-8a51270d7f55)
 
-![image](https://github.com/user-attachments/assets/d437249a-eb18-4acf-b4f1-bb3682d9ed16)
 
-![image](https://github.com/user-attachments/assets/9f5b3278-e1c9-48aa-8a85-8782e50daa9e)
+![image](https://github.com/user-attachments/assets/043ab9cd-99af-4d28-a1dd-dc4576f7f0bf)
 
-![image](https://github.com/user-attachments/assets/05810ebc-87ef-4ebf-b430-d0903f0170bb)
 
-![image](https://github.com/user-attachments/assets/4d707605-cf6f-481f-9b6d-bca66015f32e)
+![image](https://github.com/user-attachments/assets/b6a5aa05-fda7-4b6d-9b91-e9d9617d2795)
+
+
+![image](https://github.com/user-attachments/assets/51f7d4f8-7807-4441-913a-82e2ce98d8e9)
+
+
+![image](https://github.com/user-attachments/assets/ef94fc8a-b3c0-4125-a6ee-c2bf3430bfdf)
+![image](https://github.com/user-attachments/assets/05ef970e-c90b-4a45-9741-bf370ea0a2b5)
+
